@@ -33,7 +33,7 @@ import datetime
 
 
 
-tprint("WelcomeOGU")
+tprint("Contrive")
 sleep(0.5)
 print("Made with Selenium")
 sleep(0.5)
